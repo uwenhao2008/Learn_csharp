@@ -108,6 +108,8 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="类与对象.cs" />
+    <None Include="析构函数.cs" />
     <None Include="连接数据库.cs" />
     <None Include="泛型.cs" />
     <None Include="匿名函数.cs" />
